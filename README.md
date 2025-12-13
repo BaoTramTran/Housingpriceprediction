@@ -30,3 +30,10 @@ Key Highlights:
   + Quality ratings (overall quality, exterior quality, kitchen quality)
   + Location attributes (neighborhood, zoning)
   + Property details (age, lot size, garage capacity)
+
+## 🛠️ Tools & Technologies
+- Python 3.x
+- pandas, numpy, matplotlib, seaborn
+- scikit-learn, xgboost, statsmodels
+- Google Colab
+  
