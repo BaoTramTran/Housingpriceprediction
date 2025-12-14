@@ -14,14 +14,14 @@ Key Highlights:
 
 -  Business Value: 31% improvement in prediction accuracy over baseline linear regression
 
-** 🎯Project Objectives **
+**🎯Project Objectives**
 
 1. Identify key factors that influence residential property prices
 2. Build predictive models capable of accurately estimating home sale prices
 3. Compare different ML approaches
 4. Provide actionable insights
    
-## 📊 Dataset
+**📊 Dataset**
 **Source:** [Ames Iowa Housing Data - Kaggle]
 - Observations: 1,460
 - Features: 79
@@ -32,7 +32,7 @@ Key Highlights:
   + Location attributes (neighborhood, zoning)
   + Property details (age, lot size, garage capacity)
 
-## 🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 - Python 3.x
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn, xgboost, statsmodels
